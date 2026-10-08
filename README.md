@@ -62,25 +62,6 @@ A backend system that searches and manages employee profile data using company-b
 
 ---
 
-### 🏭 Industrial Monitoring System
-
-**Spring Boot | Modbus TCP | MySQL | REST API**
-
-Backend system for monitoring industrial sensor data and controlling relay devices through Modbus TCP.
-
-**Key features:**
-- Temperature monitoring
-- Pressure monitoring
-- Modbus TCP communication
-- Relay control
-- MySQL persistence
-- REST APIs
-- ModbusPal simulation
-
-🔗 [View Repository](https://github.com/ABISHEK-H-11/aattral_demo_project)
-
----
-
 ## 🎓 Education
 
 **Bachelor of Engineering — Mechanical Engineering**
