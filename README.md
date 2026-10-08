@@ -44,7 +44,7 @@ I build backend applications and REST APIs using **Java and Spring Boot**, with 
 
 ## 🚀 Featured Projects
 
-### 🔎 Employee Finder API
+### 🔎 LeadScope-B2B-Employee-Lead-Discovery-Platform
 
 **Java | Spring Boot | Spring Security | JWT | MySQL | DataForSEO | Docker**
 
